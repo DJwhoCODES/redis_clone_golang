@@ -123,20 +123,9 @@ GET city
 
 ---
 
-## 🧩 Next Steps
-
-After mastering this mini Redis clone, explore:
-
-- Persistent storage (AOF / RDB)
-- Pub/Sub messaging
-- Clustering and replication
-- Implementing your own protocol from scratch
-
----
-
 ## 👨‍💻 Author
 
-**Devanshu Jain**  
+**Devanshu Jain - DJwhoCodes**  
 Built while learning Go systems programming and Redis internals.
 
 ---
